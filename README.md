@@ -24,7 +24,8 @@ Hi there! I'm Crocus726, an university student from <img src="https://hatscripts
 
 # GitHub Stats
 
-![Crocus726's github stats](https://github-readme-stats.vercel.app/api?username=Crocus726&show_icons=true) [![Crocus726's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Crocus726&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Crocus726)
+![Crocus726's github stats](https://github-readme-stats.vercel.app/api?username=Crocus726&show_icons=true) [![Crocus726's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Crocus726&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Crocus726)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crocus726)](https://git.io/streak-stats)
 
 # Contact
 <a href="mailto: crocus726@gmail.com"><img src="https://img.shields.io/badge/crocus726@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
