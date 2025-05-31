@@ -30,7 +30,7 @@ Hi there! I'm Crocus726, an university student from <img src="https://hatscripts
 # Contact
 <a href="mailto: crocus726@gmail.com"><img src="https://img.shields.io/badge/crocus726@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/arendelle_crocus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://blog.naver/cpom/crocus726/"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/crocus726"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
 
 <!---
 Crocus726/Crocus726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
