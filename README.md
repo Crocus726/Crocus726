@@ -14,18 +14,19 @@ Hi there! I'm Crocus726, an university student from <img src="https://hatscripts
 
 # Interests
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 # Workspace
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 
 # Open Source Projects
 
 # GitHub Stats
 
-![Crocus726's github stats](https://github-readme-stats.vercel.app/api?username=Crocus726&show_icons=true) [![Crocus726's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Crocus726&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Crocus726)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crocus726)](https://git.io/streak-stats)
+[![Crocus726's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Crocus726&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Crocus726)
 
 # Contact
 <a href="mailto: crocus726@gmail.com"><img src="https://img.shields.io/badge/crocus726@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
