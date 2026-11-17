@@ -10,11 +10,9 @@ Hi there! I'm Crocus726, an university student from <img src="https://hatscripts
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=crocus726)](https://solved.ac/crocus726)
-
 # Interests
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 # Workspace
 
@@ -24,14 +22,8 @@ Hi there! I'm Crocus726, an university student from <img src="https://hatscripts
 
 # Open Source Projects
 
-# GitHub Stats
-
-[![Crocus726's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Crocus726&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Crocus726)
-
 # Contact
 <a href="mailto: crocus726@gmail.com"><img src="https://img.shields.io/badge/crocus726@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/arendelle_crocus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://blog.naver.com/crocus726"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
 
 <!---
 Crocus726/Crocus726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
